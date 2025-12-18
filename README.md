@@ -36,6 +36,7 @@
 | [Geolonia](https://www.geolonia.com/) | [Midnight](https://geoloniamaps.github.io/midnight/) | Geolonia Maps | ? | MIT | [Charites](https://github.com/geoloniamaps/midnight)
 | [Geolonia](https://www.geolonia.com/) | [Red Planet](https://geoloniamaps.github.io/red-planet/) | Geolonia Maps | ? | MIT | [Charites](https://github.com/geoloniamaps/red-planet)
 | [Geolonia](https://www.geolonia.com/) | [Notebook](https://geoloniamaps.github.io/notebook/) | Geolonia Maps | ? | MIT | [Charites](https://github.com/geoloniamaps/notebook)
+| [MapComplete](https://mapcomplete.org/) | Sunny | Protomaps | ? | GPLv3 | [MapLibre JSON](https://source.mapcomplete.org/MapComplete/MapComplete/src/branch/develop/public/assets/sunny.json)
 
 [^notmap]: Style attribution may be provided from a linked page and need not be present on the map itself
 [^positroncc0]: [Contradictory information is available on the license](https://github.com/openmaptiles/positron-gl-style/issues/22)
