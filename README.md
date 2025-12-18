@@ -17,7 +17,7 @@
 | [CARTO](https://carto.com/) | Voyager | OpenMapTiles | CC BY[^notmap] | BSD | [Templated Maplibre JSON](https://github.com/CartoDB/basemap-styles/tree/master/mapboxgl)
 | [CARTO](https://carto.com/) | Positron | OpenMapTiles | CC BY[^notmap] | BSD | [Templated Maplibre JSON](https://github.com/CartoDB/basemap-styles/tree/master/mapboxgl)
 | [CARTO](https://carto.com/) | Positron | OpenMapTiles | CC BY[^notmap] | BSD | [Templated Maplibre JSON](https://github.com/CartoDB/basemap-styles/tree/master/mapboxgl)
-| [OpenMapTiles](https://openmaptiles.org/) | [OSM OpenMapTiles](https://www.maptiler.com/maps/#style=openstreetmap) | OpenMapTiles | CC BY | BSD | ?
+| [OpenMapTiles](https://openmaptiles.org/) | [OSM OpenMapTiles](https://www.maptiler.com/maps/#style=openstreetmap) | OpenMapTiles | CC BY | BSD | [Python](https://github.com/openmaptiles/openmaptiles-tools/blob/master/openmaptiles/styleutils.py) + [YAML](https://github.com/openmaptiles/openmaptiles/tree/master/style)
 | [OpenMapTiles](https://openmaptiles.org/) | [OSM Bright](https://openmaptiles.github.io/osm-bright-gl-style/) | OpenMapTiles | CC BY[^notmap][^v2os] | BSD | [Maplibre JSON](https://github.com/openmaptiles/maptiler-basic-gl-style)
 | [OpenMapTiles](https://openmaptiles.org/) | [MapTiler Basic](https://openmaptiles.github.io/maptiler-basic-gl-style/) | OpenMapTiles | CC BY[^notmap][^v2os] | BSD | [Maplibre JSON](https://github.com/openmaptiles/maptiler-basic-gl-style)
 | [OpenMapTiles](https://openmaptiles.org/) | [MapTiler 3d](https://openmaptiles.github.io/maptiler-3d-gl-style/) | OpenMapTiles | CC BY[^notmap] | BSD | [Maplibre JSON](https://github.com/openmaptiles/maptiler-3d-gl-style)
