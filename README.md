@@ -31,6 +31,12 @@
 | [OpenStreetMap US](https://openstreetmap.us/) | [OpenTrailMap](https://opentrailmap.us/) | OSM US Trails | MIT | MIT | [JavaScript](https://github.com/osm-americana/openstreetmap-americana)
 | [Qwant Maps](https://github.com/Qwant/qwantmaps)[^deadorg] | [Basic](https://github.com/Qwant/qwantmaps?tab=readme-ov-file) | Custom | CC BY | BSD | [Templated Maplibre JSON](https://github.com/Qwant/qwant-basic-gl-style/)
 | StreetComplete | StreetComplete Map Style | ? | ? | GPL 3 | [Kotlin](https://github.com/streetcomplete/maplibre-streetcomplete-style) |
+| [Geolonia](https://www.geolonia.com/) | [Basic v2](https://geoloniamaps.github.io/basic-v2/) | Geolonia Maps | ? | MIT | [Charites](https://github.com/geoloniamaps/basic-v2)
+| [Geolonia](https://www.geolonia.com/) | [GSI](https://geoloniamaps.github.io/gsi/) | Geolonia Maps | ? | MIT | [Charites](https://github.com/geoloniamaps/gsi)
+| [Geolonia](https://www.geolonia.com/) | [Midnight](https://geoloniamaps.github.io/midnight/) | Geolonia Maps | ? | MIT | [Charites](https://github.com/geoloniamaps/midnight)
+| [Geolonia](https://www.geolonia.com/) | [Red Planet](https://geoloniamaps.github.io/red-planet/) | Geolonia Maps | ? | MIT | [Charites](https://github.com/geoloniamaps/red-planet)
+| [Geolonia](https://www.geolonia.com/) | [Notebook](https://geoloniamaps.github.io/notebook/) | Geolonia Maps | ? | MIT | [Charites](https://github.com/geoloniamaps/notebook)
+
 [^notmap]: Style attribution may be provided from a linked page and need not be present on the map itself
 [^positroncc0]: [Contradictory information is available on the license](https://github.com/openmaptiles/positron-gl-style/issues/22)
 [^darkmattercc0]: [Contradictory information is available on the license](https://github.com/openmaptiles/dark-matter-gl-style/issues/14)
@@ -43,8 +49,6 @@ The following styles are not listed because I couldn't find out enough informati
 - https://github.com/gsi-cyberjapan/gsimaps-vector-experiment
 - https://github.com/un-vector-tile-toolkit/ango-static
 - https://github.com/optgeo/toki
-- https://github.com/geoloniamaps/basic-v2
-- Styles on https://maps.geolonia.com/
 - https://github.com/UNDP-Data/style
 - https://github.com/takamatsu-city/maps.takamatsu-fact.com
 - https://github.com/OpenSeaCharts/osc-style
