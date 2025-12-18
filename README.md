@@ -36,6 +36,10 @@
 | [Geolonia](https://www.geolonia.com/) | [Midnight](https://geoloniamaps.github.io/midnight/) | Geolonia Maps | ? | MIT | [Charites](https://github.com/geoloniamaps/midnight)
 | [Geolonia](https://www.geolonia.com/) | [Red Planet](https://geoloniamaps.github.io/red-planet/) | Geolonia Maps | ? | MIT | [Charites](https://github.com/geoloniamaps/red-planet)
 | [Geolonia](https://www.geolonia.com/) | [Notebook](https://geoloniamaps.github.io/notebook/) | Geolonia Maps | ? | MIT | [Charites](https://github.com/geoloniamaps/notebook)
+| [OpenHistoricalMap](https://www.openhistoricalmap.org/) | [Historical](https://www.openhistoricalmap.org/#layers=O) | OpenHistoricalMap<br/>GlobCover<br/>GMTED | CC0[^historical] | CC0 | [MapLibre JSON](https://github.com/OpenHistoricalMap/map-styles/tree/staging/historical/)
+| [OpenHistoricalMap](https://www.openhistoricalmap.org/) | [Railway](https://www.openhistoricalmap.org/#layers=R) | OpenHistoricalMap | CC0 | CC0 | [MapLibre JSON](https://github.com/OpenHistoricalMap/map-styles/tree/staging/railway/)
+| [OpenHistoricalMap](https://www.openhistoricalmap.org/) | [Woodblock](https://www.openhistoricalmap.org/#layers=W) | OpenHistoricalMap | CC0 | CC0 | [MapLibre JSON](https://github.com/OpenHistoricalMap/map-styles/tree/staging/woodblock/)
+| [OpenHistoricalMap](https://www.openhistoricalmap.org/) | [Japanese Scroll](https://www.openhistoricalmap.org/#layers=J) | OpenHistoricalMap | CC0 | CC0 | [MapLibre JSON](https://github.com/OpenHistoricalMap/map-styles/tree/staging/japanese_scroll/)
 
 [^notmap]: Style attribution may be provided from a linked page and need not be present on the map itself
 [^positroncc0]: [Contradictory information is available on the license](https://github.com/openmaptiles/positron-gl-style/issues/22)
@@ -43,6 +47,7 @@
 [^v2os]: Only version 1 of this style is open source
 [^americana]: The resulting style is not pure Maplibre GL JSON and requires additional support javascript
 [^deadorg]: This organization has ceased operation and all repositories are archived
+[^historical]: [GlobCover](https://due.esrin.esa.int/page_globcover.php) is under an attribution license.
 
 ## Not listed
 The following styles are not listed because I couldn't find out enough information about them. Some of them may not be open source, or they might be forks of styles already listed. PRs welcome!
