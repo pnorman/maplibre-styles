@@ -16,7 +16,7 @@
 | [Protomaps](https://protomaps.com/) | [black](https://maps.protomaps.com/#flavorName=black) | Protomaps | CC0 | BSD-3 | [TypeScript](https://github.com/protomaps/basemaps/tree/main/styles) |
 | [CARTO](https://carto.com/) | Voyager | OpenMapTiles | CC BY[^notmap] | BSD | [Templated Maplibre JSON](https://github.com/CartoDB/basemap-styles/tree/master/mapboxgl)
 | [CARTO](https://carto.com/) | Positron | OpenMapTiles | CC BY[^notmap] | BSD | [Templated Maplibre JSON](https://github.com/CartoDB/basemap-styles/tree/master/mapboxgl)
-| [CARTO](https://carto.com/) | Positron | OpenMapTiles | CC BY[^notmap] | BSD | [Templated Maplibre JSON](https://github.com/CartoDB/basemap-styles/tree/master/mapboxgl)
+| [CARTO](https://carto.com/) | Dark Matter | OpenMapTiles | CC BY[^notmap] | BSD | [Templated Maplibre JSON](https://github.com/CartoDB/basemap-styles/tree/master/mapboxgl)
 | [OpenMapTiles](https://openmaptiles.org/) | [OSM OpenMapTiles](https://www.maptiler.com/maps/#style=openstreetmap) | OpenMapTiles | CC BY | BSD | ?
 | [OpenMapTiles](https://openmaptiles.org/) | [OSM Bright](https://openmaptiles.github.io/osm-bright-gl-style/) | OpenMapTiles | CC BY[^notmap][^v2os] | BSD | [Maplibre JSON](https://github.com/openmaptiles/maptiler-basic-gl-style)
 | [OpenMapTiles](https://openmaptiles.org/) | [MapTiler Basic](https://openmaptiles.github.io/maptiler-basic-gl-style/) | OpenMapTiles | CC BY[^notmap][^v2os] | BSD | [Maplibre JSON](https://github.com/openmaptiles/maptiler-basic-gl-style)
