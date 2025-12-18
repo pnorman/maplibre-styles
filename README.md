@@ -26,6 +26,7 @@
 | [OpenMapTiles](https://openmaptiles.org/) | [Positron](https://openmaptiles.github.io/positron-gl-style/) | OpenMapTiles | CC0[^positroncc0] | BSD | [Maplibre JSON](https://github.com/openmaptiles/positron-gl-style)
 | [OpenMapTiles](https://openmaptiles.org/) | [Dark Matter](https://openmaptiles.github.io/dark-matter-gl-style/) | OpenMapTiles | CC BY[^darkmattercc0] | BSD | [Maplibre JSON](https://github.com/openmaptiles/dark-matter-gl-style)
 | [MapLibre](https://www.maplibre.org/) | [OSM Liberty](https://maplibre.org/maputnik/?style=https://maputnik.github.io/osm-liberty/style.json) | OpenMapTiles | CC BY | BSD | [Maplibre JSON](https://github.com/maputnik/osm-liberty)
+| [Apache Software Foundation](https://www.apache.org/) | [OpenStreetMap Vecto](https://github.com/apache/incubator-baremaps/tree/main/basemap/) | Baremaps | Apache | Apache | [JavaScript](https://github.com/apache/incubator-baremaps/tree/main/basemap/)
 | [National Scenic Trails Guide](https://nst.guide) | [OSM Liberty Topo](https://nst-guide.github.io/osm-liberty-topo) | OpenMapTiles<br/>NST Coutours | CC BY | BSD | [Maplibre JSON](https://github.com/nst-guide/osm-liberty-topo)
 | [OpenStreetMap US](https://openstreetmap.us/) | [OpenStreetMap Americana](https://americanamap.org/) | OpenMapTiles | CC0 | CC0 | [TypeScript](https://github.com/osm-americana/openstreetmap-americana)[^americana]
 | [OpenStreetMap US](https://openstreetmap.us/) | [OpenTrailMap](https://opentrailmap.us/) | OSM US Trails | MIT | MIT | [JavaScript](https://github.com/osm-americana/openstreetmap-americana)
