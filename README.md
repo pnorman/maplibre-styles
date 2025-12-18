@@ -30,7 +30,7 @@
 | [OpenStreetMap US](https://openstreetmap.us/) | [OpenStreetMap Americana](https://americanamap.org/) | OpenMapTiles | CC0 | CC0 | [TypeScript](https://github.com/osm-americana/openstreetmap-americana)[^americana]
 | [OpenStreetMap US](https://openstreetmap.us/) | [OpenTrailMap](https://opentrailmap.us/) | OSM US Trails | MIT | MIT | [JavaScript](https://github.com/osm-americana/openstreetmap-americana)
 | [Qwant Maps](https://github.com/Qwant/qwantmaps)[^deadorg] | [Basic](https://github.com/Qwant/qwantmaps?tab=readme-ov-file) | Custom | CC BY | BSD | [Templated Maplibre JSON](https://github.com/Qwant/qwant-basic-gl-style/)
-| StreetComplete | StreetComplete Map Style | ? | ? | GPL 3 | [Kotlin](https://github.com/streetcomplete/maplibre-streetcomplete-style) |
+| [StreetComplete](https://streetcomplete.app/) | StreetComplete Map Style | ? | ? | GPL 3 | [Kotlin](https://github.com/streetcomplete/maplibre-streetcomplete-style) |
 | [Geolonia](https://www.geolonia.com/) | [Basic v2](https://geoloniamaps.github.io/basic-v2/) | Geolonia Maps | ? | MIT | [Charites](https://github.com/geoloniamaps/basic-v2)
 | [Geolonia](https://www.geolonia.com/) | [GSI](https://geoloniamaps.github.io/gsi/) | Geolonia Maps | ? | MIT | [Charites](https://github.com/geoloniamaps/gsi)
 | [Geolonia](https://www.geolonia.com/) | [Midnight](https://geoloniamaps.github.io/midnight/) | Geolonia Maps | ? | MIT | [Charites](https://github.com/geoloniamaps/midnight)
