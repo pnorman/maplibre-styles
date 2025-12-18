@@ -40,6 +40,7 @@
 | [OpenHistoricalMap](https://www.openhistoricalmap.org/) | [Railway](https://www.openhistoricalmap.org/#layers=R) | OpenHistoricalMap | CC0 | CC0 | [MapLibre JSON](https://github.com/OpenHistoricalMap/map-styles/tree/staging/railway/)
 | [OpenHistoricalMap](https://www.openhistoricalmap.org/) | [Woodblock](https://www.openhistoricalmap.org/#layers=W) | OpenHistoricalMap | CC0 | CC0 | [MapLibre JSON](https://github.com/OpenHistoricalMap/map-styles/tree/staging/woodblock/)
 | [OpenHistoricalMap](https://www.openhistoricalmap.org/) | [Japanese Scroll](https://www.openhistoricalmap.org/#layers=J) | OpenHistoricalMap | CC0 | CC0 | [MapLibre JSON](https://github.com/OpenHistoricalMap/map-styles/tree/staging/japanese_scroll/)
+| [Hidde Wieringa](https://github.com/hiddewie/) | [OpenRailwayMap Vector](https://github.com/hiddewie/OpenRailwayMap-vector/) | OpenRailwayMap<br/>OpenHistoricalMap | ? | GPLv3 | [JavaScript](https://github.com/hiddewie/OpenRailwayMap-vector/blob/master/proxy/js/styles.mjs)
 
 [^notmap]: Style attribution may be provided from a linked page and need not be present on the map itself
 [^positroncc0]: [Contradictory information is available on the license](https://github.com/openmaptiles/positron-gl-style/issues/22)
