@@ -28,6 +28,7 @@
 | [MapLibre](https://www.maplibre.org/) | [OSM Liberty](https://maplibre.org/maputnik/?style=https://maputnik.github.io/osm-liberty/style.json) | OpenMapTiles | CC BY | BSD | [Maplibre JSON](https://github.com/maputnik/osm-liberty) |
 | [National Scenic Trails Guide](https://nst.guide) | [OSM Liberty Topo](https://nst-guide.github.io/osm-liberty-topo) | OpenMapTiles<br/>NST Coutours | CC BY | BSD | [Maplibre JSON](https://github.com/nst-guide/osm-liberty-topo) |
 | [OpenStreetMap US](https://openstreetmap.us/) | [OpenStreetMap Americana](https://americanamap.org/) | OpenMapTiles | CC0 | CC0 | [TypeScript](https://github.com/osm-americana/openstreetmap-americana)[^americana] |
+| [AARoads](https://www.aaroads.com/) | [AAMaps](https://www.aaroads.com/aamaps/) | OpenMapTiles | CC0 | CC0 | [TypeScript](https://github.com/aaroads-wiki/openstreetmap-americana/)[^americana]
 | [OpenStreetMap US](https://openstreetmap.us/) | [OpenTrailMap](https://opentrailmap.us/) | OSM US Trails | MIT | MIT | [JavaScript](https://github.com/osm-americana/openstreetmap-americana) |
 | [Qwant Maps](https://github.com/Qwant/qwantmaps)[^deadorg] | [Basic](https://github.com/Qwant/qwantmaps?tab=readme-ov-file) | Custom | CC BY | BSD | [Templated Maplibre JSON](https://github.com/Qwant/qwant-basic-gl-style/) |
 | [StreetComplete](https://streetcomplete.app/) | StreetComplete Map Style | ? | ? | GPL 3 | [Kotlin](https://github.com/streetcomplete/maplibre-streetcomplete-style) |
